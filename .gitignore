@@ -1,0 +1,7 @@
+
+.gitattributes
+.ipynb_checkpoints/main-checkpoint.ipynb
+creds.json
+Data/title.akas.tsv.gz
+Data/title.basics.tsv.gz
+Data/title.ratings.tsv.gz
