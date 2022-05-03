@@ -5,3 +5,6 @@ creds.json
 Data/title.akas.tsv.gz
 Data/title.basics.tsv.gz
 Data/title.ratings.tsv.gz
+.DS_Store
+.ipynb_checkpoints/EDA-checkpoint.ipynb
+.ipynb_checkpoints/TMDB-ETL-checkpoint.ipynb
