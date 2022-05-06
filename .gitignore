@@ -8,3 +8,5 @@ Data/title.ratings.tsv.gz
 .DS_Store
 .ipynb_checkpoints/EDA-checkpoint.ipynb
 .ipynb_checkpoints/TMDB-ETL-checkpoint.ipynb
+.ipynb_checkpoints/2A_TMDB-ETL-checkpoint.ipynb
+.ipynb_checkpoints/2B_EDA-checkpoint.ipynb
